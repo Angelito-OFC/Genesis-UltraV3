@@ -1,10 +1,3 @@
-/* ARCHIVO EDITADO , CREADO O MEJORADO
-POR EL CUERVO 
-CUERVO-TEAM-SUPREME 
-SE DEJAN CREDITOS PERRAS ES DE CUERVO 
-USO NO PRIVADO ES PUBLICO
-PERO CUERVO SE ENCARGA 
-*/
 import { search, download } from 'aptoide-scraper'
 
 var handler = async (m, {conn, usedPrefix, command, text}) => {
