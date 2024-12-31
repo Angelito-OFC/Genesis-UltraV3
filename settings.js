@@ -1,10 +1,3 @@
-/* ARCHIVO EDITADO , CREADO O MEJORADO
-POR EL CUERVO 
-CUERVO-TEAM-SUPREME 
-SE DEJAN CREDITOS PERRAS ES DE CUERVO 
-USO NO PRIVADO ES PUBLICO
-PERO CUERVO SE ENCARGA 
-*/
 import { watchFile, unwatchFile } from 'fs' 
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -24,7 +17,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5213339577315', 'Propietario 👑', true],
+  ['59168683798', 'Propietario 👑', true],
   ['5213318360934', 'Owner ✨️', true],
   ['5493876639332'],
   ['5218713339906'],
