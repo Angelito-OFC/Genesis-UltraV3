@@ -1,10 +1,3 @@
-/* QUEDA PROHIBIDO EDITAR ESTOS CREDITOS
- Powered By Cuervo-Team-Supreme 
-ya se te deja editar mucho del bot deja nuestros créditos lacra no seas puerca y respeta
-att: Cuervo-Team-Supreme
-(agrega tus creditos no borres o cambies)
-*/
-
 import fs from 'fs';  
 import path from 'path';  
 import fetch from "node-fetch";
