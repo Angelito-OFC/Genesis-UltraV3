@@ -44,6 +44,8 @@
 "acrcloud": "^1.4.0",
 "form-data": "^4.0.0",
 "cfonts": "^3.3.0",
+"yargs": "^17.7.2",
+"wa-sticker-formatter": "^4.4.4",
 "boxen": "^7.1.1",
 "chalk": "^5.1.0",
 "url-file-size": "^1.0.5-1",
