@@ -20,20 +20,15 @@ const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('Yue-Bot', {
-font: 'block',
-align: 'center',
-colors: ['red']
-});
-say(`Multi Device`, {
+say('Genesis\nUltra', {
 font: 'chrome',
 align: 'center',
-colors: ['red']
+gradient: ['red', 'magenta']
 });
-say(`Developed By • Cuervo-Team-Supreme`, {
+say(`Developed By • Angel-OFC y TK-Host`, {
 font: 'console',
 align: 'center',
-colors: ['yellow']
+gradient: ['red', 'magenta']
 });
 var isRunning = false;
 function start(file) {
